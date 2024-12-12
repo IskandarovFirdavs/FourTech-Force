@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FourTech-Force/static/css/main.d4b05781.css",
-    "main.js": "/FourTech-Force/static/js/main.ba1f625d.js",
+    "main.js": "/FourTech-Force/static/js/main.224348db.js",
     "static/media/music1.mp3": "/FourTech-Force/static/media/music1.f7ba05b11ac38d524895.mp3",
     "static/media/fa-solid-900.ttf": "/FourTech-Force/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
     "static/media/fa-brands-400.ttf": "/FourTech-Force/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
@@ -13,10 +13,10 @@
     "static/media/fa-v4compatibility.woff2": "/FourTech-Force/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/FourTech-Force/index.html",
     "main.d4b05781.css.map": "/FourTech-Force/static/css/main.d4b05781.css.map",
-    "main.ba1f625d.js.map": "/FourTech-Force/static/js/main.ba1f625d.js.map"
+    "main.224348db.js.map": "/FourTech-Force/static/js/main.224348db.js.map"
   },
   "entrypoints": [
     "static/css/main.d4b05781.css",
-    "static/js/main.ba1f625d.js"
+    "static/js/main.224348db.js"
   ]
 }
